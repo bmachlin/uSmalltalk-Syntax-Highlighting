@@ -13,3 +13,8 @@ You must have Package Control installed for this to work. If it doesn't immediat
 Associated with all .smt files.
 
 Created by Ben Machlin and Jordan Mickel
+
+
+------------------
+
+contact: benjamin.machlin@tufts.edu or jordan.mickel@tufts.edu
