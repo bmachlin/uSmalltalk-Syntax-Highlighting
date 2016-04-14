@@ -1,10 +1,10 @@
-# uSmalltalk-Syntax-Highlighting
-Sublime Text package for syntax highlighting for uSmalltalk
+# µSmalltalk-Syntax-Highlighting
+Sublime Text package for syntax highlighting in the µSmalltalk 
 
 
 ##To Install
 
-Find your Sublime Text folder and navigate to Packages>User folder
+Find your Sublime Text folder and navigate to Packages -> User folder
 
 Then insert the "smalltalk_syntax.tmLanguage" file.
 
